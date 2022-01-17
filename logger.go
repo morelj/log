@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/TwinProduction/go-color"
+	"github.com/TwiN/go-color"
 )
 
 // Level is a log level

@@ -1,5 +1,5 @@
 module github.com/morelj/log
 
-go 1.15
+go 1.17
 
-require github.com/TwinProduction/go-color v0.0.3
+require github.com/TwiN/go-color v1.1.0
